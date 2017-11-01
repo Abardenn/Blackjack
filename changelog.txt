@@ -1,0 +1,30 @@
+#Changelog
+All notable changes to the Blackjack Server will be documented in this file.
+All times and dates are in GMT+10
+
+## Added
+2/11/2017 - Auto Trader
+2/11/2017 - Halloween Special Ended
+
+
+##Unreleased
+
+##Credits
+my_hat_stinks - Blackjack Automation (http://steamcommunity.com/sharedfiles/filedetails/?id=871079505 + http://steamcommunity.com/sharedfiles/filedetails/?id=883084339)
+MrStump - Univseral Blackjack Table & Universal Chip Converter 3.0 (https://steamcommunity.com/sharedfiles/filedetails/?id=777645276 + https://steamcommunity.com/sharedfiles/filedetails/?id=790330178)
+Abarden - Auto Prestige, Auto Trader (http://steamcommunity.com/profiles/76561198066038219/)
+Kieron - Kieron's Scripted Blackjack (https://steamcommunity.com/sharedfiles/filedetails/?id=824578290)
+Goldensly - Treasure Chests (bags) (http://steamcommunity.com/sharedfiles/filedetails/?id=533980504)
+blackraider - Casino Sound Effects (http://steamcommunity.com/sharedfiles/filedetails/?id=1181552761)
+Cavalarrr - Fallout 4 Bobblehead Figurines (http://steamcommunity.com/sharedfiles/filedetails/?id=758630314)
+sirrichard94 - Stackable Metal Coins (http://steamcommunity.com/sharedfiles/filedetails/?id=682780476)
+Royal Tampon - Safes (http://steamcommunity.com/sharedfiles/filedetails/?id=1081110252)
+MrStump - Admin Chip  (http://steamcommunity.com/sharedfiles/filedetails/?id=1120090592)
+chry - Auto Kick/Auto Promote (http://steamcommunity.com/sharedfiles/filedetails/?id=828224473)
+Ruthless Narwhal - Roulette  (http://steamcommunity.com/sharedfiles/filedetails/?id=1128363313)
+
+#Halloween Special
+Seiseki - Candle (http://steamcommunity.com/sharedfiles/filedetails/?id=766157350)
+7of69 - The Black Arcana - Cards (http://steamcommunity.com/sharedfiles/filedetails/?id=602030688)
+Eyeball (https://free3d.com/3d-model/eyeball--33237.html)
+Halloween Pack (https://free3d.com/3d-model/halloween-pack-50683.html)
