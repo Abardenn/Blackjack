@@ -1,18 +1,20 @@
 #Changelog
 All notable changes to the Blackjack Server will be documented in this file.
-All times and dates are in GMT+10
 
-## Added
+## Updates
 
-5/11/2017 - 20 Ruppes for Collectable Token
-5/11/2017 - Removed Princess Celestia (Caused lag)
-3/11/2017 - Added Nicholas Cage picture
-3/11/2017 - Admins can now give TEMP whitelist !whitelist color/name
-2/11/2017 - Auto Trader
-2/11/2017 - Halloween Special Ended
-31/10/2017 - Fallout 4 Bobbleheads added
+- Admins can now whitelist
+- Fixed Gold bar being removed when prestiging
+- Donations added + Custom join messages
+- Removed Princess Celestia (Caused lag)
+- Added Nicholas Cage picture
+- Admins can now give TEMP whitelist !whitelist color/name
+- Auto Trader
+- Halloween Special Ended
+- Fallout 4 Bobbleheads added
 
-##Unreleased
+TO:DO
+- Add ban command
 
 ##Credits
 my_hat_stinks - Blackjack Automation (http://steamcommunity.com/sharedfiles/filedetails/?id=871079505 + http://steamcommunity.com/sharedfiles/filedetails/?id=883084339)
@@ -33,3 +35,9 @@ Seiseki - Candle (http://steamcommunity.com/sharedfiles/filedetails/?id=76615735
 7of69 - The Black Arcana - Cards (http://steamcommunity.com/sharedfiles/filedetails/?id=602030688)
 Eyeball (https://free3d.com/3d-model/eyeball--33237.html)
 Halloween Pack (https://free3d.com/3d-model/halloween-pack-50683.html)
+
+#Christmas Special
+Targets - Christmas Cards http://steamcommunity.com/id/Targets/
+Flooffy - Table Art http://steamcommunity.com/id/Flooffy/
+MISC Christmas Items http://steamcommunity.com/sharedfiles/filedetails/?id=816003783
+
